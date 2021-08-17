@@ -250,3 +250,6 @@ button {
   top: 4.5rem;
   opacity: 0;
 }
+::-webkit-scrollbar {
+  width: 0rem;
+}
